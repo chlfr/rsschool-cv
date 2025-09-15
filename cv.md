@@ -1,7 +1,6 @@
 # Kristina Medvedeva
 ## Student Frontend Developer
 
-
 **Contact Information:**
 *   **Discord:** christina (@chlfr)
 *   **GitHub:** chlfr
@@ -34,8 +33,6 @@ function multiply(a, b){
 1.  **It-Academy**
     *   Website development with HTML, CSS & JavaScript (2024)
     *   Web application development with JavaScript (2024)
-
-
 2.  **Minsk College of Business**
     *   Tourism and Hospitality (2017 - 2020)
 
